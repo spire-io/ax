@@ -1,4 +1,4 @@
 ax
 ==
 
-Ax has been moved
+Ax has moved to https://github.com/automatthew/ax
